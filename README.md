@@ -62,3 +62,7 @@ Although lots of things are very common for an experienced researcher, for me, a
 I read some books. 
 I distinct that what kind of skills are possible to achieve by practicing, and there is a kind of thinking and mindset that could not be gained from practicing.
 Groundbreaking. 
+
+## order in modification
+methodology is the most important step
+
