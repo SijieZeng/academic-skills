@@ -53,3 +53,12 @@ A research proposal is written when you have an extensive literature review on t
 ## How to prepare your kick-off meeting slides and speech
 
 ## How many times of literetaure review you need?
+
+
+## experience
+Look back for the whole process of the research, I learn xx
+I think the most important thing is the awareness of myself,
+Although lots of things are very common for an experienced researcher, for me, at the beginning, is not easy. With this research experience that I benefit a lot, For sure the next research will not be a repeat process of this one. The research skills remain the same, but in the future it will be getting more proficient every time. I think the foucs point will be different. personally thinks, we need to spend more time on thinking the meaning of the research work, what actual impacts on the fields, what potential impacts on the field. what is the future tendency and why the research match with the future tendency and how? Of course the Failed experiments are worth publishing. but that's the different thing. during this research, I search for lots of literature, all of them are applying different method to the same goal. queue estimation. I wonder, isn't this a Exhaustive method? use Exhaustive method to implement all the methods and compare the performance. Maybe, there will be one has outstanding performance, and becomes the mainstream accepted method. what is Groundbreaking? I start thinking about this during the research. 
+I read some books. 
+I distinct that what kind of skills are possible to achieve by practicing, and there is a kind of thinking and mindset that could not be gained from practicing.
+Groundbreaking. 
