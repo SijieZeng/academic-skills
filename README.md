@@ -22,7 +22,30 @@ Third, "to respond to the comments", my supervisor places great importance on wh
 收到feedback后的流程：首先大致浏览，使用zotero打开带有feedback的manuscripts。然后一条一条思考导师的comments，立刻就能修改的typo，可以立即修改并标记绿色表示已处理好。如果对一些comment立刻就有想法，也可以修改后把修改的文章打绿色标级，如果有想法但没有完全修改好，可以把想法写在红色标记里。
 最终，你会得到一个list里面包含了绿色和红色的标记，红色的标记可以提取出来作为和导师讨论的内容，进一步确认。
 在下一次与导师讨论前，发送有争议或未解决的list，并附上你的想法。
+### weekly progress email example
+Dear Andreas,
 
+ 
+Manuscripts: 
+1. modifying the manuscripts. 
+- LR finished.
+- 5.1 measurement function.
+ 
+Weekly progress report: 
+- The study progress: I might have ADHD. I went to France for a holiday from 9th, May to 15th, May and went hiking. Visit the town during the daytime and do the manuscript modification at night.
+- What I have done: 
+1. manuscripts. 
+2. thesis LR.
+- The plan until Thursday:
+Integrate Henk requirements to pdf for the measurement function.
+ 
+- Discuss on Thursday: 
+Naming: a Particle Filter-Based Signalized Intersection Queue Estimator (PF-SIQE). In the literature review, I do narrow down to the literature that studies the signalized intersection. OR I wonder if it will be more "general": a Particle Filter-Based Intersection Queue Estimator (PF-IQE), because it is feasible to replace the traffic light decision model with a critical gap merging model (?) for a nonsignalized intersection(?), e.g. model the principle of yielding right in traffic rules. OR a Particle Filter-Based Queue Estimator (PF-QE), which can also used on freeways, e.g. to model the vehicular dynamic of how vehicles respond to the dynamical advice speed limit. I decide to pick (PF-SIQE) to be more consistence with the Literature Review Chapter.
+
+Question 1: there are proportions in decision-making in the dilemma zone, how could this integrate for the particle filter as well as combine the noise in acceleration rate, not simply multiply, right?
+
+Best,
+Sijie
 ## How to draft your research proposal
 A research proposal is written when you have an extensive literature review on the topic you plan to go deep into. It is common for the research scope, objective, and research questions in your research proposal to differ from those in your final thesis, especially when you are a beginner in doing research. Learning and gradually accumulating research experience takes time during the entire research process.
 ### Take my master thesis as an example
