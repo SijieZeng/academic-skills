@@ -66,3 +66,7 @@ Groundbreaking.
 ## order in modification
 methodology is the most important step
 
+
+## experiment simulation
+The starting point for the experiments should be some thoughts on what you want to show by the experiments (and why), and only after that chose the "how". So, what do you need to show to demonstrate that the filter "works" (demonstrate the main features of the filter), and what scenario variations do you want to investigate to conclude things about how to set up detectors, sensitivity to assumptions, etc.
+
